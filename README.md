@@ -1,9 +1,6 @@
 # git 사용법 
 
-```angular2html
-md는 마크다운임을 알려주는 확장명이다.
-대소문자 잘 구분하여 파일명 작성할 것
-```
+
 
 1. 로컬 저장소를 생성한다.
 2. 코드를 작성한다.
@@ -12,9 +9,7 @@ md는 마크다운임을 알려주는 확장명이다.
    2. 커밋으로 남길 변경사항을 스테이징 영역에 추가한다.
    3. 커밋 메시지와 함께 커밋을 생성한다.
 
-```angular2html
-윈도우키 + . = 윈도우 이모티콘 생성
-```
+
 ## 🥐 인생 첫 커밋을 만들었다! 나는 GIT을 사용하는 개발자다!❤️
 
 wowowowwowowowowwowowowowowowowowow!!!!!
@@ -23,7 +18,8 @@ wowowowwowowowowwowowowowowowowowow!!!!!
 
 ## 추가 커밋용 추가 글. 추가추가 슈가슈가룬 초코초코룬
 
-![네눈박이](foureyes.jpeg)
+![네눈박이](Foureyes.jpeg)
 ![백구](korean-jindo-dog-5103470_1280.jpg)
 
 ### 진돗개 귀여워잉
+
